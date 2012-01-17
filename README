@@ -1,5 +1,6 @@
-RFC 2822 - style email validation for Python (c) 2011 Noel Bush <noel@aitools.org> This code is made available to you
-under the GNU LGPL v3.
+RFC 2822 - style email validation for Python
+(c) 2011 Noel Bush <noel@aitools.org>
+This code is made available to you under the GNU LGPL v3.
 
 This module provides a single method, valid_email_address(), which returns True or False to indicate whether a given
 address is valid according to the 'addr-spec' part of the specification given in
