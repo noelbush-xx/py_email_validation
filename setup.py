@@ -2,7 +2,7 @@
 from distutils.core import setup
 
 setup(name='py_email_validation',
-      version='1.0',
+      version='1.0.0.1',
       description='RFC 2822 - style email address validation for Python',
       long_description='''
       This module provides a single method, valid_email_address(), which returns
@@ -27,5 +27,5 @@ setup(name='py_email_validation',
       license='LGPL',
       url='https://github.com/noelbush/py_email_validation',
       download_url='https://github.com/noelbush/py_email_validation/tarball/master',
-      packages=['py_email_validation'],
+      py_modules=['email_validation'],
 )
