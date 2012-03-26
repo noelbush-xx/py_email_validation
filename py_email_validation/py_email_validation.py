@@ -1,4 +1,4 @@
-# email_validation.py
+# py_email_validation.py
 #
 # RFC 2822 - style email validation for Python
 # (c) 2011 Noel Bush <noel@aitools.org>
