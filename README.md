@@ -1,6 +1,6 @@
 RFC 2822 - style email validation for Python
 
-(c) 2011 Noel Bush <noel@aitools.org>
+(c) 2011 Noel Bush <noel@platformer.org>
 
 This code is made available to you under the GNU LGPL v3.
 
