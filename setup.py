@@ -2,7 +2,7 @@
 from distutils.core import setup
 
 setup(name='py_email_validation',
-      version='1.0.0.1',
+      version='1.0.0.3',
       description='RFC 2822 - style email address validation for Python',
       long_description='''
       This module provides a single method, valid_email_address(), which returns
